@@ -31,7 +31,7 @@ options
 
 // entry point
 // 4
-crate
+crate_root
     : innerAttribute* item* EOF
     ;
 
