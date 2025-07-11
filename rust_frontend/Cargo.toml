@@ -1,0 +1,8 @@
+[package]
+name = "rust_frontend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+antlr4rust = "0.2"
+antlr4rust-runtime = "0.2"
